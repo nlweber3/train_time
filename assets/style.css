@@ -1,0 +1,25 @@
+#top_div {
+	text-align: center;
+	font-family: 'Joti One', cursive;
+}
+#train {
+	height: 200px;
+	width: 400px;
+}
+body {
+	background: grey;
+}
+.form-group {
+	width: 60%;
+	margin: auto;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+#submit_button {
+	margin-left: 300px;
+	margin-top: 30px;
+}
+#output_div {
+	width: 60%;
+	margin: auto;
+}
