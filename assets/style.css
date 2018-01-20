@@ -13,13 +13,32 @@ body {
 	width: 60%;
 	margin: auto;
 	font-weight: bold;
-	margin-bottom: 5px;
+	padding-bottom: 5px;
 }
 #submit_button {
-	margin-left: 300px;
+	margin: 0 auto;
 	margin-top: 30px;
+	background: black;
+	color: white;
 }
 #output_div {
 	width: 60%;
 	margin: auto;
+	background: white;
+}
+.card-header {
+	background: #B22222;
+	color: white;
+	font-size: larger;
+	text-align: center;
+}
+.form-group {
+	text-align: center;
+	margin-top: 5px;
+}
+.row {
+	margin-bottom: 5px;
+}
+#submit {
+	text-align: center;
 }
